@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一份简明的 Markdown 笔记与教程
+title: 一份简明的 Markdown 笔记与教程（转）
 categories: Markdown
 description: 一份简明的 Markdown 笔记与教程
 keywords: Markdown, VSCode
@@ -633,6 +633,6 @@ https://github.com
 
 ---
 
-欢迎关注我的微信公众号，接收 markdown-intro 最新动态。
+欢迎关注我的微信公众号。
 
-<div align="center"><img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/></div>
+<div align="center"><img width="192px" height="192px" src="https://liuzhenjin.github.io/assets/images/qrcode.jpg"/></div>
